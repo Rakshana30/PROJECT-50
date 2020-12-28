@@ -1,0 +1,75 @@
+h1{
+
+    color: darkorange;
+
+}
+
+.header{
+
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.middle{
+
+    color: white;
+
+}
+
+.grid{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.item1{
+
+    background-color: aquamarine;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.item2{
+
+    background-color: aquamarine;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.item3{
+
+    background-color: aquamarine;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.item4{
+
+    background-color: aquamarine;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.item5{
+
+    background-color: aquamarine;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.item6{
+
+    background-color: aquamarine;
+    display: flex;
+    justify-content: flex-start;
+
+}
